@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="assets">
+    <file>m_ai__1_-removebg-preview.png</file>
+    <file>file-medical-alt.png</file>
+    <file>cholesterol.png</file>
+    <file>blood-pressure.png</file>
+    <file>lavatory.png</file>
+    <file>calendar.png</file>
+    <file>difficulty-breathing.png</file>
+    <file>tiredness.png</file>
+    <file>cough.png</file>
+    <file>fever.png</file>
+    <file>arrow_back_32dp_E8EAED_FILL0_wght400_GRAD0_opsz40.png</file>
+    <file>quiz.png</file>
+    <file>milad-fakurian-PGdW_bHDbpI-unsplash.jpg</file>
+  </qresource>
+</RCC>
